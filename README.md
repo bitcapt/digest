@@ -1,2 +1,3 @@
 # digest
-Ideas, resourses and so forth
+
+Ideas worth saving
